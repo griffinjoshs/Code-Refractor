@@ -86,21 +86,29 @@ aside {
     background-color: #2589bd;
 }
 
+/* Benefits combined */
+
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Benefits h3 condensed */
 
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Benefits img */
+
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* sections created */
 
 section {
     margin-bottom: 20px;
